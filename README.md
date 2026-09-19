@@ -25,11 +25,11 @@
 
 ### Engineering Assistant @ RD Station
 
-I currently work close to **engineering operations**, supporting developers and helping organize technical requests, incidents and internal services.
+I currently work in engineering operations, supporting developers and helping organize technical requests, incidents and internal services.
 
 My previous experience in **SRE** gave me hands-on contact with observability, monitoring and incident response.
 
-Today, I'm combining that operational background with software development while moving deeper into **Back-End Engineering with .NET**.
+Today, I'm combining that operational background with software development while moving deeper into Back-End Engineering with .NET.
 
 <br>
 

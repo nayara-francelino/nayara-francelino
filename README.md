@@ -179,7 +179,7 @@ Currently focusing on:
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nayara%20Francelino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINK-DO-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nayara%20Francelino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayarafrancelino/)
 [![GitHub](https://img.shields.io/badge/GitHub-nayara--francelino-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nayara-francelino)
 
 </div>
